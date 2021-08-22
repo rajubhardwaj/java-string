@@ -1,2 +1,2 @@
 # java-string
-Java String practices
+This repository for practicing of String
